@@ -9,7 +9,7 @@ def key_for_min_value(name_hash)
  if name_hash[key] < value_to_compare
    lowest_key = key
  end
-   
+   lowest_key
    
  end
  
